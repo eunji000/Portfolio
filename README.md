@@ -8,8 +8,6 @@ Unity 클라이언트 프로그래머를 목표로 공부하고 있는 신은지
 
 * Unity
 * C#
-* Git
-* GitHub
 * Visual Studio
 
 ## Projects
