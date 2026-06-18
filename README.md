@@ -2,20 +2,33 @@
 
 안녕하세요.
 
-Unity 클라이언트 프로그래머를 목표로 공부하고 있습니다.
+Unity 클라이언트 프로그래머를 목표로 공부하고 있는 신은지입니다.
 
 ## Skills
 
-- Unity
-- C#
+* Unity
+* C#
+* Git
+* GitHub
+* Visual Studio
 
 ## Projects
 
-### Laboratory Escape
+### LIFE QUST
 
-캡스톤 디자인 팀 프로젝트
+연구실 탈출을 주제로 한 캡스톤 디자인 팀 프로젝트입니다.
 
-담당 역할
-- 파이프 미니게임 개발
-- AI 기반 이미지 제작
-- 사운드 리소스 조사
+**담당 역할**
+
+* Pipe Puzzle 시스템 구현
+* 파이프 회전 및 정답 판정 로직 구현
+* 미로 미니게임 아이템 배치
+
+**사용 기술**
+
+* Unity
+* C#
+
+**GitHub**
+
+* https://github.com/eunji000/LifeQuest-PipePuzzle
